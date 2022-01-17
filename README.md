@@ -11,7 +11,9 @@ Chemotherapy drugs tend to damage tumour cell DNA. O[6]-methylguanine-DNA methyl
 
 ## MRI Data Background
 Magnetic resonance imaging (MRI) is one of the most commonly used tests in neurology and neurosurgery. MRI provides significant detail of the brain, spinal cord and vascular anatomy, and has the advantage of being able to visualize anatomy in all three planes: axial, sagittal, and coronal.
+
 ![mri-planes]
+
 The most common type of MRI sequences are the following:
 - Note: TR = Repetition Time: time between successive pulse sequences applied to the same slice. TE = Time to Echo: time between the delivery of the RF pulse and the receipt of the echo signal.
 1. T1-weighted
