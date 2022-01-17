@@ -1,0 +1,4 @@
+venv/
+*.h5
+*.fth
+**/sample_dicoms
